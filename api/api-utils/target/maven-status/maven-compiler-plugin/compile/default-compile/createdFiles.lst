@@ -1,0 +1,7 @@
+org\apereo\cas\util\crypto\NoOpCipherExecutor.class
+org\apereo\cas\util\serialization\StringSerializer.class
+org\apereo\cas\util\cache\DistributedCacheObject.class
+org\apereo\cas\util\serialization\ComponentSerializationPlan.class
+org\apereo\cas\util\cache\DistributedCacheManager.class
+org\apereo\cas\util\crypto\CipherExecutor.class
+org\apereo\cas\util\serialization\ComponentSerializationPlanConfigurator.class
